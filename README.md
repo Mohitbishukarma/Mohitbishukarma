@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning on **UI/UX Designing**
+- 🔭 I’m currently learning **UI/UX Designing**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
